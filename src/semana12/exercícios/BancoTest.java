@@ -1,4 +1,4 @@
-package semana12;
+package semana12.exercícios;
 
 /*
 
